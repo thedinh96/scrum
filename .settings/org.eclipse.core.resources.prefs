@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/auth/signup.jsp=UTF-8
+encoding//src/controller/AdminAddUserController.java=UTF-8
+encoding//src/controller/AdminEditUserController.java=UTF-8
+encoding//src/model/bean/Song.java=UTF-8
+encoding//src/model/dao/UserDao.java=UTF-8
+encoding//src/util/MessageUtil.java=UTF-8
+encoding/<project>=UTF-8
